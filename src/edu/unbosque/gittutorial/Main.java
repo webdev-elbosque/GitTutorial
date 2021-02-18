@@ -7,8 +7,9 @@ public class Main {
     public static void main(String[] args)
     {
         Date currentDate = new Date();
-
-        System.out.println("Hola mundo! Estamos en el curso de Git y GitHub.");
+  
+        System.out.println("Hello world! We are on the Git and GitHub course.");
+        System.out.println("I hope this tutorial is clear enough!");
         System.out.println("The current date is " + currentDate.toString());
     }
 
